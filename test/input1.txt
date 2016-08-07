@@ -1,0 +1,4 @@
+folderA/test1.svg
+folderB/test2.png
+folderC/test3.png
+folderD/test4.gif
